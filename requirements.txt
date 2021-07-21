@@ -1,0 +1,5 @@
+numpy
+autostat
+django
+gunicorn
+django-heroku
